@@ -1,5 +1,6 @@
 # Cards Go
 [![Go Report Card](https://goreportcard.com/badge/github.com/MiguelMachado-dev/cards-go)](https://goreportcard.com/report/github.com/MiguelMachado-dev/cards-go)
+[![Go](https://github.com/MiguelMachado-dev/cards-go/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/MiguelMachado-dev/cards-go/actions/workflows/go.yml)
 ![GitHub](https://img.shields.io/github/license/MiguelMachado-dev/cards-go)
 
 This is a simple Go program that simulates a deck of cards. It includes functions for creating a new deck, shuffling the deck, and dealing cards from the deck.
