@@ -8,7 +8,12 @@ type person struct {
 }
 
 func main() {
-	jd := person{firstName: "John", lastName: "Doe"}
+	var jd person
+
+	jd.firstName = "John"
+	jd.lastName = "Doe"
 
 	fmt.Println(jd)
+	// Log each value separate by fieldname
+	fmt.Printf("%+v", jd)
 }
